@@ -1,1 +1,0 @@
-# mobilee-jquery
